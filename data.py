@@ -3,7 +3,7 @@ import numpy as np
 import os
 import glob
 import cv2
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt#zhushi
 #from libtiff import TIFF
 
 class myAugmentation(object):
